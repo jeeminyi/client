@@ -1,5 +1,5 @@
 # 서비스 명
-서비스 한 줄 소개 입력
+서비스 한 줄 소개 입력 ㄷ
 
 ## 프로젝트 설명
 🌱 34th sopkathon SOPKATHON WEB 3조
